@@ -73,7 +73,10 @@ Compensation-Gap-Marriage-Model/
 
 ## 📊 Experiments Included (Sections 4.2–4.6)
 
+![simulation_results](./assets/simulation_results.png)
+
 ### **Experiment 1 — The Futility of Compensation**
+
 Simulates a low-tier suitor offering max compensation ($C=500k$).
 * **Result**: Match fails. $\Delta V$ persists due to utility clipping. Money cannot buy ordinal rank.
 
@@ -92,6 +95,7 @@ Compares High-Bride-Price Norms (Jiangsu) vs. Low-Norms (Guangdong).
 ### **Experiment 5 — Post-Marriage Regret (Slippage)**
 Simulates an external information shock (e.g., peer comparison) post-commitment.
 * **Result**: $V_{\text{uncond}}$ spikes $\to$ $\theta$ crashes $\to$ Agent enters hidden **Regret State**. Regret is structural execution slippage.
+* 
 
 -----
 
