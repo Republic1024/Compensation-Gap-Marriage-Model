@@ -4,6 +4,7 @@
 
 ### Unifying Mate Selection and Limit Order Books through State-Machine Dynamics
 ### Code Release for: *Why Compensation Cannot Close Gaps: A Computational Model of Marriage Markets with Internal Preference Differentials*
+![48bb82b8690f8045e1380f4bccd665a5](./assets/48bb82b8690f8045e1380f4bccd665a5.png)
 
 ![f9bd223ca39d4226cedae27ab9760650](./assets/f9bd223ca39d4226cedae27ab9760650.png)
 
@@ -95,7 +96,6 @@ Compares High-Bride-Price Norms (Jiangsu) vs. Low-Norms (Guangdong).
 ### **Experiment 5 — Post-Marriage Regret (Slippage)**
 Simulates an external information shock (e.g., peer comparison) post-commitment.
 * **Result**: $V_{\text{uncond}}$ spikes $\to$ $\theta$ crashes $\to$ Agent enters hidden **Regret State**. Regret is structural execution slippage.
-* 
 
 -----
 
