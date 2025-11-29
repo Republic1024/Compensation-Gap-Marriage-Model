@@ -67,6 +67,7 @@ Compensation-Gap-Marriage-Model/
 ├── exp1-5-Chinese.py   # Chinese commented version for local developers
 ├── simulation_results.png # Visualization of Settling, Clipping, and Regret
 ├── .gitignore
+├── Why Compensation Cannot Close Gaps.pdf
 └── README.md
 ````
 
