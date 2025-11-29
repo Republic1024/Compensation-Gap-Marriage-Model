@@ -5,6 +5,8 @@
 ### Unifying Mate Selection and Limit Order Books through State-Machine Dynamics
 ### Code Release for: *Why Compensation Cannot Close Gaps: A Computational Model of Marriage Markets with Internal Preference Differentials*
 
+![f9bd223ca39d4226cedae27ab9760650](./assets/f9bd223ca39d4226cedae27ab9760650.png)
+
 ---
 
 ## 📌 Overview
